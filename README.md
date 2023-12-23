@@ -2,6 +2,7 @@
 ## Project Setup
 
 cd tictactoe
+
 npm install
 
 
