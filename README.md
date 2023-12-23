@@ -1,4 +1,4 @@
-## tictactoe
+# tictactoe
 ## Project Setup
 
 npm install
