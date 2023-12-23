@@ -49,7 +49,7 @@ npm run dev
 
 ## Watcher
 
-ดู winner และคำนวนว่ามี่การเปลี่ยนแปลงหรือไม่ถ้ามีให้เป็นhistoryลงlocalstorage
+ดู winner และคำนวนว่ามี่การเปลี่ยนแปลงหรือไม่ถ้ามีให้เก็บhistoryลงlocalstorage
 
 ## Lifecycle Hooks
 
