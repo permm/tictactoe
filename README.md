@@ -52,3 +52,8 @@ npm run dev
 ## Lifecycle Hooks
 
 *__onMounted__* ใช้โหลด historyก่อน conponents จะถูกสร้างเสร็จ
+
+
+## Algorithm
+
+![Content Page](https://github.com/permm/tictactoe/assets/89117732/36549859-ee89-402d-a09c-8b35bf829e20)
