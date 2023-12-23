@@ -13,9 +13,9 @@ npm run dev
 
 ### มีตัวแปร
 
-__player__ เก็บ ผู้เล่น 
+*__player__* เก็บ ผู้เล่น 
 
-__num__ เก็บ ขนาดของboard
+*__num__* เก็บ ขนาดของboard
 
 __showhistory__ เก็บ booleanที่ใช้แสดงhistory
 
