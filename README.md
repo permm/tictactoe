@@ -35,7 +35,6 @@ npm run dev
 
 *__winner__* คำนวนวิธีชนะตามขนาดของboard
 
-
 ## ฟังก์ชั่น
 
 *__calculateWinner__* ใช้คำนวนผู้ชนะตามขนาดของboard
@@ -46,11 +45,9 @@ npm run dev
 
 *__showpattern__* ใช้แสดงรูปแบบการชนะ
 
-
 ## Watcher
 
 ดู winner และคำนวนว่ามี่การเปลี่ยนแปลงหรือไม่ถ้ามีให้เป็นhistoryลงlocalstorage
-
 
 ## Lifecycle Hooks
 
