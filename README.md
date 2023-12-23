@@ -11,7 +11,7 @@ npm run dev
 
 ## วิธีออกแบบ
 
-มีตัวแปร
+มีตัวแปร br
 player เก็บ ผู้เล่น 
 num เก็บ ขนาดของboard
 showhistory เก็บ booleanที่ใช้แสดงhistory
