@@ -11,22 +11,22 @@ npm run dev
 
 ## วิธีออกแบบ
 
-มีตัวแปร br
+### มีตัวแปร
 
-player เก็บ ผู้เล่น 
+__player__ เก็บ ผู้เล่น 
 
-num เก็บ ขนาดของboard
+__num__ เก็บ ขนาดของboard
 
-showhistory เก็บ booleanที่ใช้แสดงhistory
+__showhistory__ เก็บ booleanที่ใช้แสดงhistory
 
-squares เก็บ รูปแบบของช่อง4เหลี่ยม
+__squares__ เก็บ รูปแบบของช่อง4เหลี่ยม
 
-historywinplayer เก็บ ผู้เล่นที่ชนะในhistory
+__historywinplayer__ เก็บ ผู้เล่นที่ชนะในhistory
 
-historywinindex เก็บ indexของผู้เล่นที่ชนะในhistory
+__historywinindex__ เก็บ indexของผู้เล่นที่ชนะในhistory
 
-pattern เก็บ รูปแบบการชนะของผู้เล่นhistory
+__pattern__ เก็บ รูปแบบการชนะของผู้เล่นhistory
 
-ishistory เก็บ booleanว่าเป็นhistory
+__ishistory__ เก็บ booleanว่าเป็นhistory
 
-calsquares คำนวนขนาดboardตามnum
+__calsquares__ คำนวนขนาดboardตามnum
